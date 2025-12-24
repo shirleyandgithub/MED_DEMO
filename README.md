@@ -1,7 +1,7 @@
-<p>这是一个医疗影像分割 + 报告生成的端到端实操的项目。<br>
+**<p>项目简介:<br>**
+这是一个医疗影像分割 + 报告生成的端到端实操的项目。<br>
 基于ISIC数据集，通过UNet系模型进行影像识别; <br>
-基于Baichuan-M2大模型生成报告;</p><br><br>
-
+基于Baichuan-M2大模型生成报告;</p><br>
 ISIC数据集: https://challenge.isic-archive.com/data/#milk10k<br><br>
 
 
